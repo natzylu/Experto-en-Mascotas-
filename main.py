@@ -1,6 +1,7 @@
-"""Sistema experto para recomendar una mascota.
-
-Diseñado para ejecutarse en consola, incluida la terminal de GitHub Codespaces.
+"""
+Natalia Quesada
+11/12/2026
+Sistema experto para recomendar una mascota.
 """
 
 from collections import Counter
